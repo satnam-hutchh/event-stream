@@ -1,2 +1,2 @@
-# nats-jetstream
-NATS Jetstream Pub/Sub or Consumer 
+# event-stream
+Event Stream Pub/Sub or Consumer 
