@@ -1,0 +1,21 @@
+{
+    "name": "hutchh/event-stream",
+    "description": "Event stream pub/sub",
+    "type": "library",
+    "require": {
+        "basis-company/nats": "^1.0"
+    },
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Hutchh\\EventStream\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "satnam singh",
+            "email": "satnam.singh@hutchh.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
